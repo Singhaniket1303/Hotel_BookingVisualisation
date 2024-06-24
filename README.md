@@ -2,3 +2,6 @@ This project about Business problem of Hotel industry where they are facing high
 steps:-
 1. Data cleaned using python
 2. visualise using tableau
+
+
+![visualization](https://github.com/Singhaniket1303/Hotel_BookingVisualisation/assets/119403569/242778a7-0a57-476a-a7e0-c2a218b3e17d)
